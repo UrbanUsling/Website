@@ -1,0 +1,70 @@
+ph{
+    font-size: 3rem;
+    font-family: 'Inconsolata', monospace;
+    color: red;
+}
+ls{
+    font-size: 2rem;
+    color: rgb(4, 110, 197);
+}
+#me-info{
+color: blue;
+font-family: 'Markazi Text', serif;
+
+}
+#jag{
+    width: 400px;
+    border-radius: 500px;
+  }
+dt{
+    font-size: 2rem;
+    color: purple;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+dd{
+    font-family: fantasy;
+}
+#git:link { text-decoration: none; }
+
+
+#git:visited { text-decoration: none; }
+
+
+#git:hover { 
+    text-decoration: none; 
+    color: rgb(206, 22, 38);
+}
+
+
+#git:active { text-decoration: none; }
+
+a:hover { 
+    text-decoration: none; 
+    color: brown;
+}
+.map-responsive{
+
+    overflow:hidden;
+
+    padding-bottom:56.25%;
+
+    position:relative;
+
+    height:0;
+
+}
+
+.map-responsive iframe{
+
+    left:0;
+
+    top:0;
+
+    height:100%;
+
+    width:100%;
+
+    position:absolute;
+
+}
